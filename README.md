@@ -1,6 +1,8 @@
 # FotballStatisticWeb
- Wep program that chooses the best football player for your evaluations
- [ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-kdwu8a.streamlit.app/)
+ Wep program that chooses the best football player for your evaluations.
+ 
+ [Proje linki :ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-kdwu8a.streamlit.app/)
+ 
 # Merhabalar,
 ## Ben Hüseyin Efkan Alp
  * Bu benim web'e aktardığım ilk projem ve canlı etkileşim yapılmasından çok mutluyum :)
