@@ -1,7 +1,7 @@
 # FotballStatisticWeb
  Wep program that chooses the best football player for your evaluations.
  
- [Proje linki :ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-kdwu8a.streamlit.app/)
+ [Proje linki :ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-w7qa41.streamlit.app/)
  
 # Merhabalar,
 ## Ben Hüseyin Efkan Alp
@@ -29,7 +29,7 @@
  
  ![](https://github.com/HuseyinEfkanAlp/FotballStatisticWeb/blob/main/images/pastvsfuture.png)
  
- [ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-kdwu8a.streamlit.app/)
+ [ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-w7qa41.streamlit.app/)
  
  ### Hüseyin Efkan Alp
  
