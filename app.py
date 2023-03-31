@@ -256,7 +256,7 @@ if mevkiSecim == 'Forvet':
 			sut=forvetDict["Şut"], gol=forvetDict["Gol"], dripling=forvetDict["Dripling"],maxYas=yas[1],minYas=yas[0])
 		if top10forvet.shape[0]>0:
 			st.subheader("Ağırlıklarınıza göre 2021-2022 sezonunun en iyi Forveti / Forvetleri")
-			st.table(top10forvet.iloc[0:10,[2,3,4,5,6,7,8,15]])
+			st.table(top10forvet.iloc[0:10,[2,3,4,5,6,7,8,15,16]])
 			st.success(f"Seçtiğiniz Kriterlerde En İyi Forvet Oyuncusu : " + top10forvet["Name"].iloc[0])
 			#Graph
 			df_fig_rate = pd.DataFrame(dict(r=top10forvet["YourRate"][:10].values,
@@ -410,7 +410,7 @@ if mevkiSecim == 'Orta Saha':
 			sut=ortaDict["Şut"], gol=ortaDict["Gol"], dripling=ortaDict["Dripling"],maxYas=yas[1],minYas=yas[0])
 		if top10orta.shape[0]>0:
 			st.subheader("Ağırlıklarınıza göre 2021-2022 sezonunun en iyi Orta Sahası / Orta Sahaları")
-			st.table(top10orta.iloc[0:10,[2,3,4,5,6,7,8,15]])
+			st.table(top10orta.iloc[0:10,[2,3,4,5,6,7,8,15,16]])
 			st.success(f"Seçtiğiniz Kriterlerde En İyi Orta Saha Oyuncusu : " + top10orta["Name"].iloc[0])
 			#Graph
 			df_fig_rate = pd.DataFrame(dict(r=top10orta["YourRate"][:10].values,
