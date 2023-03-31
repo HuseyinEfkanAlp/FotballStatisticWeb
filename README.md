@@ -15,7 +15,7 @@
  
  1. İlk olarak hangi mevki de oyuncu aradığımızı seçiyor, hangi istatistiksel özelliklerine hangi derecede önem verdiğimizi ve hangi yaş aralığında futbolcu aradığımızı seçiyoruz
  
- ![](https://github.com/HuseyinEfkanAlp/FotballStatisticWeb/blob/main/images/Ekran Resmi 2023-04-01 00.24.33.png)
+ ![](https://github.com/HuseyinEfkanAlp/FotballStatisticWeb/blob/main/images/AgeRange.png)
  
  2. Ve karşımıza seçtiğimiz kriterlerde mevkisinin 2021-2022 sezonunda en iyi 10 futbolcusu karşımıza çıkıyor.
  
