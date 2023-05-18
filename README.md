@@ -29,7 +29,7 @@
  
  ![](https://github.com/HuseyinEfkanAlp/FotballStatisticWeb/blob/main/images/pastvsfuture.png)
  
- [ProjectLink](https://huseyinefkanalp-fotballstatisticweb-app-w7qa41.streamlit.app/)
+ [ProjectLink](https://huseyinefkanalp-fotballstatisticweb-streamlit-app-4ieahx.streamlit.app/)
  
  ### Hüseyin Efkan Alp
  
